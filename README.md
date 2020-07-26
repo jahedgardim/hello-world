@@ -1,2 +1,4 @@
-# hello-world
- primeiro repositório versionado
+# Hello World!!!
+ Primeiro repositório versionado.
+
+ Repositório criado durante aula online.
